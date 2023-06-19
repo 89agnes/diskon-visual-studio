@@ -1,0 +1,17 @@
+C:\Users\Putri\source\repos\diskon\bin\Release\net6.0-windows\diskon.exe
+C:\Users\Putri\source\repos\diskon\bin\Release\net6.0-windows\diskon.deps.json
+C:\Users\Putri\source\repos\diskon\bin\Release\net6.0-windows\diskon.runtimeconfig.json
+C:\Users\Putri\source\repos\diskon\bin\Release\net6.0-windows\diskon.dll
+C:\Users\Putri\source\repos\diskon\bin\Release\net6.0-windows\diskon.pdb
+C:\Users\Putri\source\repos\diskon\obj\Release\net6.0-windows\diskon.vbproj.AssemblyReference.cache
+C:\Users\Putri\source\repos\diskon\obj\Release\net6.0-windows\diskon.Form1.resources
+C:\Users\Putri\source\repos\diskon\obj\Release\net6.0-windows\diskon.vbproj.GenerateResource.cache
+C:\Users\Putri\source\repos\diskon\obj\Release\net6.0-windows\diskon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Putri\source\repos\diskon\obj\Release\net6.0-windows\diskon.AssemblyInfoInputs.cache
+C:\Users\Putri\source\repos\diskon\obj\Release\net6.0-windows\diskon.AssemblyInfo.vb
+C:\Users\Putri\source\repos\diskon\obj\Release\net6.0-windows\diskon.vbproj.CoreCompileInputs.cache
+C:\Users\Putri\source\repos\diskon\obj\Release\net6.0-windows\diskon.dll
+C:\Users\Putri\source\repos\diskon\obj\Release\net6.0-windows\refint\diskon.dll
+C:\Users\Putri\source\repos\diskon\obj\Release\net6.0-windows\diskon.pdb
+C:\Users\Putri\source\repos\diskon\obj\Release\net6.0-windows\diskon.genruntimeconfig.cache
+C:\Users\Putri\source\repos\diskon\obj\Release\net6.0-windows\ref\diskon.dll
